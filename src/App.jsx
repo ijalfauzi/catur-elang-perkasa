@@ -14,6 +14,11 @@ const App = () => (
     </div>
     <div className={`bg-primary ${styles.flexStart}`}>
       <div className={`${styles.boxWidth}`}>
+        Navbar
+      </div>
+    </div>
+    <div className={`bg-primary ${styles.flexStart}`}>
+      <div className={`${styles.boxWidth}`}>
         Slider
       </div>
     </div>
